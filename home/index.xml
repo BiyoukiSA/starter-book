@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Mauricio Tec</title>
+    <link>https://mauriciogtec.github.io/home/</link>
+    <description>Recent content in Homes on Mauricio Tec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://mauriciogtec.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mauriciogtec.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://mauriciogtec.github.io/home/about/</guid>
+      <description>About me I am interested in statistical approaches to machine thinking and decision-making. My research interests lie at the intersection of Reinforcement Learning and Computational Linguistics. Currently, I work on scalable inference methods that enable the integration of advanced statistical methods such as Bayesian modeling with deep learning technologies. During my PhD I have also collaborated with researchers from other fields, such as transportation engineering, developing new scalable statistical methods for applied research.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://mauriciogtec.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://mauriciogtec.github.io/home/publications/</guid>
+      <description>Williamson, S., Mauricio Tec. &amp;ldquo;Random clique covers for graphs with local density and global sparsity&amp;rdquo;. Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI), 2018.
+ Zuniga-Garcia, N., Mauricio Tec, J. G. Scott, N. Ruiz-Juri, R. Machemehl. &amp;ldquo;Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach&amp;rdquo;. Transportation Research Part C, 2019.
+ Mauricio Tec, N. Zuniga-Garcia, R. Machemehl, J. G. Scott. &amp;ldquo;Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://mauriciogtec.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://mauriciogtec.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://mauriciogtec.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://mauriciogtec.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://mauriciogtec.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://mauriciogtec.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mauriciogtec.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://mauriciogtec.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://mauriciogtec.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://mauriciogtec.github.io/home/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://mauriciogtec.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://mauriciogtec.github.io/home/tags/</guid>
+      <description>C, C++, Julia, R, Python, Statistics, Bayesian, Artificial Intelligence, Machine Learning, Big Data, Data Science, UT Austin, Cambridge, ITAM.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mauriciogtec.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://mauriciogtec.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
